@@ -11,4 +11,5 @@ In this Basically we have used JSON file system in which I have-
 Basically it has two json file-
 - record.json
 - sales.json
+
 In record JSON file we have all the added iems and in sales JSON file we have all the purchased items.
